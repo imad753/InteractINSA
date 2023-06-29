@@ -1,0 +1,40 @@
+/* styles.css */
+
+/* Styling for the navigation */
+.App header {
+    background-color: #f2f2f2;
+    padding: 10px;
+  }
+  
+  .App header nav ul {
+    list-style: none;
+    margin: 0;
+    padding: 0;
+    display: flex;
+  }
+  
+  .App header nav ul li {
+    margin-right: 10px;
+  }
+  
+  .App header nav ul li a {
+    text-decoration: none;
+    color: #333;
+    font-weight: bold;
+  }
+  
+  .App header nav ul li a.active {
+    color: #ff0000;
+  }
+  /* styles.css */
+
+/* Styling for the home page content */
+.App main {
+    padding: 20px;
+  }
+  
+  .App main h2 {
+    color: #333;
+    font-size: 24px;
+  }
+  

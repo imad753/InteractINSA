@@ -1,0 +1,3 @@
+node_modules/
+flask-server/venv/
+client/node_modules/
